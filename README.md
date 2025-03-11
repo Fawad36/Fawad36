@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=2000&pause=500&color=00FFFF&center=true&vCenter=true&width=750&lines=%F0%9F%9A%80+Welcome+to+Fawad+Unleashed!;%F0%9F%91%BD+AI+Cybersecurity+Expert+%26+Full-Stack+Dev;%E2%9A%A1+Building+the+Future+with+AI!;%F0%9F%94%A5+MERN+%2B+Next.js+%2B+Python+Mastery!">
 </h1>
 <p align="center">
-  <img src="[[https://avatars.githubusercontent.com/u/your-github-id?v=4](https://avatars.githubusercontent.com/u/135163326?v=4)](https://avatars.githubusercontent.com/u/135163326?v=4)" width="150" style="border-radius: 50%; border: 4px solid cyan; animation: glowing 2s infinite alternate;">
+  <img src="https://avatars.githubusercontent.com/u/135163326?v=4" width="150" style="border-radius: 50%; border: 4px solid cyan; animation: glowing 2s infinite alternate;">
 </p>
 
 
