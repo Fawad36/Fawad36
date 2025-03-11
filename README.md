@@ -15,7 +15,7 @@
 ## 👨‍💻 **Who is Fawad?** 🧠💡
 
 <p align="center">
-  <img src="" width="150" style="border-radius: 50%; border: 4px solid cyan; animation: glowing 2s infinite alternate;">
+  <img src="https://avatars.githubusercontent.com/u/135163326?v=4" width="150" style="border-radius: 50%; border: 4px solid cyan; animation: glowing 2s infinite alternate;">
 </p>
 
 ```yaml
