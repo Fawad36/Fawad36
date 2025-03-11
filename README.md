@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=2000&pause=500&color=00FFFF&center=true&vCenter=true&width=750&lines=🚀+Welcome+to+Fawad+Unleashed!;👽+AI+Cybersecurity+Expert+%26+Full-Stack+Dev;⚡+Building+the+Future+with+AI!;🔥+MERN+%2B+Next.js+%2B+Python+Mastery!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=2000&pause=500&color=00FFFF&center=true&vCenter=true&width=750&lines=%F0%9F%9A%80+Welcome+to+Fawad+Unleashed!;%F0%9F%91%BD+AI+Cybersecurity+Expert+%26+Full-Stack+Dev;%E2%9A%A1+Building+the+Future+with+AI!;%F0%9F%94%A5+MERN+%2B+Next.js+%2B+Python+Mastery!">
 </h1>
 
 <p align="center">
@@ -11,7 +11,7 @@
 ## 👨‍💻 **Who is Fawad?** 🧠💡
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/your-github-id?v=4" width="150" style="border-radius: 50%; border: 4px solid cyan;">
+  <img src="https://avatars.githubusercontent.com/u/your-github-id?v=4" width="150" style="border-radius: 50%; border: 4px solid cyan; animation: glowing 2s infinite alternate;">
 </p>
 
 ```yaml
@@ -52,7 +52,7 @@ passion:
 
 ## **🌌 The Next-Level Futuristic README**
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=2000&pause=500&color=FF00FF&center=true&vCenter=true&width=650&lines=⚡+Speed+Beyond+Light!;🔐+AI-Powered+Security!;🎨+Super+Modern+UI!;🔥+Machine+Learning+Projects!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=2000&pause=500&color=FF00FF&center=true&vCenter=true&width=650&lines=%E2%9A%A1+Speed+Beyond+Light!;%F0%9F%94%90+AI-Powered+Security!;%F0%9F%8E%A8+Super+Modern+UI!;%F0%9F%94%A5+Machine+Learning+Projects!">
 </p>
 
 🚀 **Fawad Unleashed** is all about **cutting-edge AI, web development, cybersecurity, and blockchain innovation**. **Building the future, one line of code at a time!**
@@ -111,3 +111,14 @@ git push origin main
 ---
 
 <h3 align="center">🚀 Built with ❤️ by <a href="https://github.com/your-username">Fawad</a></h3>
+
+<style>
+@keyframes glowing {
+  from {
+    box-shadow: 0 0 5px cyan;
+  }
+  to {
+    box-shadow: 0 0 20px cyan, 0 0 30px cyan;
+  }
+}
+</style>
