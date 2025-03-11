@@ -33,14 +33,16 @@ passion:
 
 ---
 
-Projects & Dark Technologies 🔥
-👻 Tech Tomes	🕸️ Cursed Skills
-MERN Stack 🌩️	Full-Stack Witchcraft 🧙‍♂️
-Next.js ⚡	AI & ML Summoning 👽
-Cybersecurity 🔐	Ethical Hacking Shadows 🕵️‍♂️
-Python & JS 🐍	API Enchantments 🔗
-MongoDB & SQL 🕳️	Backend Possession 🔥
-React Native 📱	Mobile App Phantoms 📲
+## 🚀 **Projects & Technologies** 🔥
+
+| 🚀 **Tech Stack** | 🎯 **Skills** |
+|-----------------|-----------------|
+| `MERN Stack` 🌐 | Full-Stack Dev 👨‍💻 |
+| `Next.js` ⚡ | AI & ML Development 🤖 |
+| `Cybersecurity` 🔐 | Ethical Hacking 🛡️ |
+| `Python & JS` 🐍 | API Development 🔗 |
+| `MongoDB & SQL` 📊 | Backend Optimization 🔥 |
+| `React Native` 📱 | Mobile App Dev 📲 |
 
 ---
 
