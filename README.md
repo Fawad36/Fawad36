@@ -10,6 +10,10 @@
 
 ## 👨‍💻 **Who is Fawad?** 🧠💡
 
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/your-github-id?v=4" width="150" style="border-radius: 50%; border: 4px solid cyan;">
+</p>
+
 ```yaml
 name: Fawad Unleashed
 expertise:
@@ -62,6 +66,16 @@ passion:
 
 <p align="center">
   <img src="https://media.giphy.com/media/kHU8f8jWqllOw/giphy.gif" width="700"/>
+</p>
+
+---
+
+## **🐱 Featured Cat Video!** 😻
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=J---aiyznGQ" target="_blank">
+    <img src="https://img.youtube.com/vi/J---aiyznGQ/0.jpg" width="600"/>
+  </a>
 </p>
 
 ---
