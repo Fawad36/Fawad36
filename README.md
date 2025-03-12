@@ -1,13 +1,8 @@
 
-
-
-
-
-
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=2000&pause=500&color=00FFFF&center=true&vCenter=true&width=750&lines=🚀+Welcome+to+Fawad+Unleashed!;👽+AI+Cybersecurity+Expert+%26+Full-Stack+Dev;⚡+Building+the+Future+with+AI!;🔥+MERN+%2B+Next.js+%2B+Python+Mastery!">
 </h1>
+
 
 
 <div align="center">
@@ -21,11 +16,12 @@
 
 
 
-
+<div align="center">
 ![Cybersecurity](https://img.shields.io/badge/🔐%20MY_ANIMATED_GIF-33B5E5?style=for-the-badge&logoColor=white)
+</div>
 
 
-😍😍😍😍😍😍💕💕💕💕💕💕😍😍😍😍😍😍😍
+😍😍💕💕💕💕💕💕😍😍😍
 
 
 
@@ -156,7 +152,7 @@ passion:
 
 
 
-
+<div align="center">
 
 ### 🚀 My Projects  
 
