@@ -38,28 +38,22 @@
 </p>
 
 
-<div style="font-family: Arial, sans-serif;">
-
-
-
 ### 🚀 Fawad Unleashed
 
 #### Expertise:
-- <span style="background-color: #FF5733; color: #fff; padding: 8px 12px; border-radius: 5px; display: inline-block; font-weight: bold;">🤖 Artificial Intelligence</span>  
-- <span style="background-color: #33B5E5; color: #fff; padding: 8px 12px; border-radius: 5px; display: inline-block; font-weight: bold;">🔐 Cybersecurity</span>  
-- <span style="background-color: #FFC107; color: #000; padding: 8px 12px; border-radius: 5px; display: inline-block; font-weight: bold;">🌐 Full-Stack Web Development</span>  
-- <span style="background-color: #4CAF50; color: #fff; padding: 8px 12px; border-radius: 5px; display: inline-block; font-weight: bold;">🚀 Blockchain & Crypto</span>  
-- <span style="background-color: #9C27B0; color: #fff; padding: 8px 12px; border-radius: 5px; display: inline-block; font-weight: bold;">🐍 Python & JavaScript Mastery</span>  
-- <span style="background-color: #E91E63; color: #fff; padding: 8px 12px; border-radius: 5px; display: inline-block; font-weight: bold;">💻 Open-Source Contributor</span>  
+![AI](https://img.shields.io/badge/🤖%20Artificial%20Intelligence-FF5733?style=for-the-badge&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/🔐%20Cybersecurity-33B5E5?style=for-the-badge&logoColor=white)
+![Full-Stack](https://img.shields.io/badge/🌐%20Full--Stack%20Web%20Development-FFC107?style=for-the-badge&logoColor=black)
+![Blockchain](https://img.shields.io/badge/🚀%20Blockchain%20&%20Crypto-4CAF50?style=for-the-badge&logoColor=white)
+![Python & JS](https://img.shields.io/badge/🐍%20Python%20&%20JavaScript%20Mastery-9C27B0?style=for-the-badge&logoColor=white)
+![Open-Source](https://img.shields.io/badge/💻%20Open--Source%20Contributor-E91E63?style=for-the-badge&logoColor=white)
 
 #### Passion:
-- <span style="background-color: #FF9800; color: #fff; padding: 8px 12px; border-radius: 5px; display: inline-block; font-weight: bold;">Building AI-powered apps</span>  
-- <span style="background-color: #607D8B; color: #fff; padding: 8px 12px; border-radius: 5px; display: inline-block; font-weight: bold;">Cybersecurity Engineering</span>  
-- <span style="background-color: #3F51B5; color: #fff; padding: 8px 12px; border-radius: 5px; display: inline-block; font-weight: bold;">Creating Next.js & MERN Stack projects</span>  
-- <span style="background-color: #CDDC39; color: #000; padding: 8px 12px; border-radius: 5px; display: inline-block; font-weight: bold;">Teaching & sharing knowledge</span>  
-- <span style="background-color: #00BCD4; color: #fff; padding: 8px 12px; border-radius: 5px; display: inline-block; font-weight: bold;">Exploring ML & Deep Learning</span>  
-
-</div>
+![AI Apps](https://img.shields.io/badge/🤖%20Building%20AI--powered%20apps-FF9800?style=for-the-badge&logoColor=white)
+![CyberSec](https://img.shields.io/badge/🔐%20Cybersecurity%20Engineering-607D8B?style=for-the-badge&logoColor=white)
+![MERN](https://img.shields.io/badge/🌐%20Creating%20Next.js%20&%20MERN%20Stack%20projects-3F51B5?style=for-the-badge&logoColor=white)
+![Teaching](https://img.shields.io/badge/📚%20Teaching%20&%20Sharing%20Knowledge-CDDC39?style=for-the-badge&logoColor=black)
+![ML](https://img.shields.io/badge/🧠%20Exploring%20ML%20&%20Deep%20Learning-00BCD4?style=for-the-badge&logoColor=white)
 
 
 
