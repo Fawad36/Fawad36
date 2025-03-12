@@ -20,13 +20,14 @@
 <div align="center">
   
   ![Cybersecurity](https://img.shields.io/badge/🔐%20MY_ANIMATED_GIF-33B5E5?style=for-the-badge&logoColor=white)
+  😍😍💕💕💕💕💕💕😍😍😍
   
 </div>
 
 
 
 
-😍😍💕💕💕💕💕💕😍😍😍
+
 
 
 
