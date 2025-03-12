@@ -11,6 +11,11 @@
 
 
 
+### 🎬 My Animated Video
+[![Watch the video](Green Nature Picture Frame Mockup Instagram Post_20250312_155237_0008.mp4](https://github.com/your-username/your-repo/issues/1#issuecomment-your-comment-id)
+
+
+
 <p align="center">
   <img src="Green Nature Picture Frame Mockup Instagram Post_20250312_155237_0008.mp4" width="800"  width="150" style="border-radius: 50%; border: 4px solid cyan; animation: glowing 2s infinite alternate;"/>
 </p>
