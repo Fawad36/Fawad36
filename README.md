@@ -12,7 +12,7 @@
 
 
 ### 🎬 My Animated Video
-[![Watch the video](Green Nature Picture Frame Mockup Instagram Post_20250312_155237_0008.mp4](https://github.com/your-username/your-repo/issues/1#issuecomment-your-comment-id)
+[![Watch the video](Green Nature Picture Frame Mockup Instagram Post_20250312_155237_0008.mp4](Green Nature Picture Frame Mockup Instagram Post_20250312_155237_0008.mp4)
 
 
 
