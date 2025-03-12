@@ -148,7 +148,7 @@ passion:
 
 ---
 
-<h3 align="center">🚀 Built with ❤️ by <a href="https://github.com/your-username">Fawad</a></h3>
+<h3 align="center">🚀 Built with ❤️ by <a href="https://github.com/Fawad36">Fawad</a></h3>
 
 <style>
 @keyframes glowing {
@@ -173,28 +173,28 @@ passion:
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/YOUR_GITHUB_USERNAME/Web-Dev-Mastery">
-        <img src="https://user-images.githubusercontent.com/YOUR_GITHUB_USER_ID/Web_Dev_Banner.png" width="300"/>
+      <a href="https://github.com/Fawad36/Web-Dev-Mastery">
+        <img src="https://user-images.githubusercontent.com/Fawad36/Web_Dev_Banner.png" width="300"/>
         <br /><b>Web Dev Mastery</b>
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/YOUR_GITHUB_USERNAME/Python-Pro">
-        <img src="https://user-images.githubusercontent.com/YOUR_GITHUB_USER_ID/Python_Banner.png" width="300"/>
+      <a href="https://github.com/Fawad36/Python-Pro">
+        <img src="https://user-images.githubusercontent.com/Fawad36/Python_Banner.png" width="300"/>
         <br /><b>Python Pro</b>
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/YOUR_GITHUB_USERNAME/Amazon-Affiliate">
-        <img src="https://user-images.githubusercontent.com/YOUR_GITHUB_USER_ID/Amazon_Banner.png" width="300"/>
+      <a href="https://github.com/Fawad36/Amazon-Affiliate">
+        <img src="https://user-images.githubusercontent.com/Fawad36/Amazon_Banner.png" width="300"/>
         <br /><b>Amazon Affiliate</b>
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/YOUR_GITHUB_USERNAME/SQL-Expert">
-        <img src="https://user-images.githubusercontent.com/YOUR_GITHUB_USER_ID/SQL_Banner.png" width="300"/>
+      <a href="https://github.com/Fawad36/SQL-Expert">
+        <img src="https://user-images.githubusercontent.com/Fawad36/SQL_Banner.png" width="300"/>
         <br /><b>SQL Expert</b>
       </a>
     </td>
@@ -202,4 +202,5 @@ passion:
 </table>
 
 </div>
+
 
