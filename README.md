@@ -27,7 +27,7 @@
 
 
 ---
-![Fawad Ali](https://img.shields.io/badge/🌐%20Fawad-ALi%20Web%20Development-FFC107?style=for-the-badge&logoColor=black)
+![Fawad Ali](https://img.shields.io/badge/🌐%20Who-Is-Fawad?style=for-the-badge&logoColor=black)
 ## 👨‍💻 **Who is Fawad?** 🧠💡
 
 
