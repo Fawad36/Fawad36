@@ -41,7 +41,6 @@
 
 
 
-![## 👨‍💻 **Who is Fawad?** 🧠💡](https://img.shields.io/badge/## 👨‍💻 **Who is Fawad?** 🧠💡?style=for-the-badge&logoColor=white)
 ## 👨‍💻 **Who is Fawad?** 🧠💡
 
 ```yaml
@@ -60,6 +59,13 @@ passion:
   - Teaching & sharing knowledge
   - Exploring ML & Deep Learning
 ```
+
+
+
+
+OR  😍
+![## 👨‍💻 **Who is Fawad?** 🧠💡](https://img.shields.io/badge/🔐%20Cybersecurity-33B5E5?style=for-the-badge&logoColor=white)
+
 
 
 
