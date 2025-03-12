@@ -17,7 +17,7 @@
 
 
 <p align="center">
-  <img src="Green Nature Picture Frame Mockup Instagram Post_20250312_155237_0008.mp4" width="800"  width="150" style="border-radius: 50%; border: 4px solid cyan; animation: glowing 2s infinite alternate;"/>
+  <img src="https://github.com/Fawad36/Animated/blob/main/GreenNaturePictureFrameMockupInstagramPost_20250312_162113_0010-min-ezgif.com-optimize.gif?raw=true" width="800"  width="150" style="border-radius: 50%; border: 4px solid cyan; animation: glowing 2s infinite alternate;"/>
 </p>
 
 
