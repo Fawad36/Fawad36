@@ -148,25 +148,15 @@ passion:
 
 ---
 
-<h3 align="center">🚀 Built with ❤️ by <a href="https://github.com/Fawad36">Fawad</a></h3>
-
-<style>
-@keyframes glowing {
-  from {
-    box-shadow: 0 0 5px cyan;
-  }
-  to {
-    box-shadow: 0 0 20px cyan, 0 0 30px cyan;
-  }
-}
-</style>
 
 
 
 
 
 
-<div align="center">
+
+
+
 
 ### 🚀 My Projects  
 
@@ -202,5 +192,10 @@ passion:
 </table>
 
 </div>
+
+
+
+
+<h3 align="center">🚀 Built with ❤️ by <a href="https://github.com/Fawad36">Fawad</a></h3>
 
 
