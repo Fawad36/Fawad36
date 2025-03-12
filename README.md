@@ -9,6 +9,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=2000&pause=500&color=00FFFF&center=true&vCenter=true&width=750&lines=🚀+Welcome+to+Fawad+Unleashed!;👽+AI+Cybersecurity+Expert+%26+Full-Stack+Dev;⚡+Building+the+Future+with+AI!;🔥+MERN+%2B+Next.js+%2B+Python+Mastery!">
 </h1>
 
+---
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=J---aiyznGQ" target="_blank">
+    <img src="https://img.youtube.com/vi/J---aiyznGQ/0.jpg" width="600"/>
+  </a>
+</p>
+
+---
+
 <p align="center">
   <img src="https://media.giphy.com/media/3oEduSbSGpGaRX2Vri/giphy.gif" width="800"  width="150" style="border-radius: 50%; border: 4px solid cyan; animation: glowing 2s infinite alternate;"/>
 </p>
