@@ -99,26 +99,7 @@ passion:
 
 ---
 
-## **🛠️ How to Use This README?**
-💻 **Follow these simple steps to upload on GitHub:**
 
-```bash
-# 1️⃣ Clone this repository
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
-
-# 2️⃣ Add This README
-nano README.md  # Paste the content here
-
-# 3️⃣ Commit and Push
-git add README.md
-git commit -m "Updated with Alien-Tech README"
-git push origin main
-```
-
-✅ **Your GitHub profile is now futuristic and top-level!** 🚀🔥
-
----
 
 ## 🌍 **Join the Community**
 💬 **Discord:** [Join the Devs](https://discord.gg/example)
