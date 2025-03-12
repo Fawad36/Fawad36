@@ -63,8 +63,8 @@ passion:
 
 
 
-OR  😍
-![## 👨‍💻 **Who is Fawad?** 🧠💡](https://img.shields.io/badge/🔐%20Fawad-Ali-33B5E5?style=for-the-badge&logoColor=white)
+
+(https://img.shields.io/badge/🔐%20Fawad-Ali-33B5E5?style=for-the-badge&logoColor=white)
 
 
 
