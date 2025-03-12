@@ -38,22 +38,28 @@
 </p>
 
 
-### 🚀 Fawad Unleashed
 
-#### Expertise:
-![AI](https://img.shields.io/badge/🤖%20Artificial%20Intelligence-FF5733?style=for-the-badge&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/🔐%20Cybersecurity-33B5E5?style=for-the-badge&logoColor=white)
-![Full-Stack](https://img.shields.io/badge/🌐%20Full--Stack%20Web%20Development-FFC107?style=for-the-badge&logoColor=black)
-![Blockchain](https://img.shields.io/badge/🚀%20Blockchain%20&%20Crypto-4CAF50?style=for-the-badge&logoColor=white)
-![Python & JS](https://img.shields.io/badge/🐍%20Python%20&%20JavaScript%20Mastery-9C27B0?style=for-the-badge&logoColor=white)
-![Open-Source](https://img.shields.io/badge/💻%20Open--Source%20Contributor-E91E63?style=for-the-badge&logoColor=white)
 
-#### Passion:
-![AI Apps](https://img.shields.io/badge/🤖%20Building%20AI--powered%20apps-FF9800?style=for-the-badge&logoColor=white)
-![CyberSec](https://img.shields.io/badge/🔐%20Cybersecurity%20Engineering-607D8B?style=for-the-badge&logoColor=white)
-![MERN](https://img.shields.io/badge/🌐%20Creating%20Next.js%20&%20MERN%20Stack%20projects-3F51B5?style=for-the-badge&logoColor=white)
-![Teaching](https://img.shields.io/badge/📚%20Teaching%20&%20Sharing%20Knowledge-CDDC39?style=for-the-badge&logoColor=black)
-![ML](https://img.shields.io/badge/🧠%20Exploring%20ML%20&%20Deep%20Learning-00BCD4?style=for-the-badge&logoColor=white)
+
+![## 👨‍💻 **Who is Fawad?** 🧠💡](https://img.shields.io/badge/## 👨‍💻 **Who is Fawad?** 🧠💡?style=for-the-badge&logoColor=white)
+## 👨‍💻 **Who is Fawad?** 🧠💡
+
+```yaml
+name: Fawad Unleashed
+expertise:
+  - Artificial Intelligence 🤖
+  - Cybersecurity 🔐
+  - Full-Stack Web Development 🌐
+  - Blockchain & Crypto 🚀
+  - Python & JavaScript Mastery 🐍
+  - Open-Source Contributor 💻
+passion:
+  - Building AI-powered apps
+  - Cybersecurity Engineering
+  - Creating Next.js & MERN Stack projects
+  - Teaching & sharing knowledge
+  - Exploring ML & Deep Learning
+```
 
 
 
