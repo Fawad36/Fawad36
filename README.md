@@ -79,7 +79,7 @@ passion:
 
 
 
-(https://img.shields.io/badge/🔐%20Fawad-Ali-33B5E5?style=for-the-badge&logoColor=white)
+
 
 
 
@@ -142,7 +142,7 @@ passion:
 ## 🌍 **Join the Community**
 💬 **Discord:** [Join the Devs](https://discord.gg/example)
 📢 **Twitter:** [Follow Me](https://twitter.com/example)
-👥 **GitHub Discussions:** [Join Here](https://github.com/your-username/your-repo/discussions)
+👥 **GitHub Discussions:** [Join Here](https://github.com/Fawad36/your-repo/discussions)
 
 🔥 **Star this repository if you love innovation!** ⭐⭐⭐
 
