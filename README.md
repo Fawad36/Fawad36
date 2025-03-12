@@ -29,8 +29,10 @@
 
 
 ---
-![](https://img.shields.io/badge/🌐Fawad-Ali?style=for-the-badge&logoColor=black)
-## 👨‍💻 **Who is Fawad?** 🧠💡
+
+
+[![Who is Fawad?](https://img.shields.io/badge/🧐%20Who%20is%20Fawad%3F-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/)
+
 
 
 
