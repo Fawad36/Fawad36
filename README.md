@@ -29,15 +29,12 @@
 
 ## 👨‍💻 **Who is Fawad?** 🧠💡
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/135163326?v=4" width="150" height="150" style="border-radius: 50%;" />
-</p>
 
 
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/135163326?v=4" width="180" height="180" 
-       style="border-radius: 50%; border: 5px solid cyan;" />
+       style="border-radius: 50%; border: 5px solid cyan; rounded-full;" />
 </p>
 
 
