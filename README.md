@@ -168,19 +168,38 @@ passion:
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME/PROJECT_1">
-    <img src="https://user-images.githubusercontent.com/YOUR_GITHUB_USER_ID/BANNER_1.png" alt="Project 1" width="45%">
-</a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME/PROJECT_2">
-    <img src="https://user-images.githubusercontent.com/YOUR_GITHUB_USER_ID/BANNER_2.png" alt="Project 2" width="45%">
-</a>
+### 🚀 My Projects  
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME/PROJECT_3">
-    <img src="https://user-images.githubusercontent.com/YOUR_GITHUB_USER_ID/BANNER_3.png" alt="Project 3" width="45%">
-</a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME/PROJECT_4">
-    <img src="https://user-images.githubusercontent.com/YOUR_GITHUB_USER_ID/BANNER_4.png" alt="Project 4" width="45%">
-</a>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/YOUR_GITHUB_USERNAME/Web-Dev-Mastery">
+        <img src="https://user-images.githubusercontent.com/YOUR_GITHUB_USER_ID/Web_Dev_Banner.png" width="300"/>
+        <br /><b>Web Dev Mastery</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/YOUR_GITHUB_USERNAME/Python-Pro">
+        <img src="https://user-images.githubusercontent.com/YOUR_GITHUB_USER_ID/Python_Banner.png" width="300"/>
+        <br /><b>Python Pro</b>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/YOUR_GITHUB_USERNAME/Amazon-Affiliate">
+        <img src="https://user-images.githubusercontent.com/YOUR_GITHUB_USER_ID/Amazon_Banner.png" width="300"/>
+        <br /><b>Amazon Affiliate</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/YOUR_GITHUB_USERNAME/SQL-Expert">
+        <img src="https://user-images.githubusercontent.com/YOUR_GITHUB_USER_ID/SQL_Banner.png" width="300"/>
+        <br /><b>SQL Expert</b>
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
