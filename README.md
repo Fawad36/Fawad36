@@ -13,6 +13,8 @@
 
 
 ![Cybersecurity](https://img.shields.io/badge/🔐%20MY_ANIMATED_GIF-33B5E5?style=for-the-badge&logoColor=white)
+
+
 😍😍😍😍😍😍💕💕💕💕💕💕😍😍😍😍😍😍😍
 
 
@@ -27,7 +29,7 @@
 
 
 ---
-![](https://img.shields.io/badge/🌐%20Who-Is-Fawad?style=for-the-badge&logoColor=black)
+![](https://img.shields.io/badge/🌐Fawad-Ali?style=for-the-badge&logoColor=black)
 ## 👨‍💻 **Who is Fawad?** 🧠💡
 
 
