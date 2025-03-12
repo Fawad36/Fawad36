@@ -10,6 +10,16 @@
 </h1>
 
 
+<div align="center">
+
+[![Who is Fawad?](https://img.shields.io/badge/🧐%20Who%20is%20Fawad%3F-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+[![WhatsApp](https://img.shields.io/badge/💬%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/YOUR_PHONE_NUMBER)
+[![YouTube](https://img.shields.io/badge/📺%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@YOUR_CHANNEL_NAME)
+
+</div>
+
+
+
 
 
 ![Cybersecurity](https://img.shields.io/badge/🔐%20MY_ANIMATED_GIF-33B5E5?style=for-the-badge&logoColor=white)
