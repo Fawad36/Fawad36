@@ -38,22 +38,27 @@
 </p>
 
 
-```yaml
-name: Fawad Unleashed
-expertise:
-  - Artificial Intelligence 🤖
-  - Cybersecurity 🔐
-  - Full-Stack Web Development 🌐
-  - Blockchain & Crypto 🚀
-  - Python & JavaScript Mastery 🐍
-  - Open-Source Contributor 💻
-passion:
-  - Building AI-powered apps
-  - Cybersecurity Engineering
-  - Creating Next.js & MERN Stack projects
-  - Teaching & sharing knowledge
-  - Exploring ML & Deep Learning
-```
+<div style="font-family: Arial, sans-serif;">
+
+### 🚀 Fawad Unleashed
+
+#### Expertise:
+- <span style="background-color: #444; color: #fff; padding: 5px 10px; border-radius: 5px;">🤖 Artificial Intelligence</span>  
+- <span style="background-color: #555; color: #fff; padding: 5px 10px; border-radius: 5px;">🔐 Cybersecurity</span>  
+- <span style="background-color: #666; color: #fff; padding: 5px 10px; border-radius: 5px;">🌐 Full-Stack Web Development</span>  
+- <span style="background-color: #777; color: #fff; padding: 5px 10px; border-radius: 5px;">🚀 Blockchain & Crypto</span>  
+- <span style="background-color: #888; color: #fff; padding: 5px 10px; border-radius: 5px;">🐍 Python & JavaScript Mastery</span>  
+- <span style="background-color: #999; color: #fff; padding: 5px 10px; border-radius: 5px;">💻 Open-Source Contributor</span>  
+
+#### Passion:
+- <span style="background-color: #444; color: #fff; padding: 5px 10px; border-radius: 5px;">Building AI-powered apps</span>  
+- <span style="background-color: #555; color: #fff; padding: 5px 10px; border-radius: 5px;">Cybersecurity Engineering</span>  
+- <span style="background-color: #666; color: #fff; padding: 5px 10px; border-radius: 5px;">Creating Next.js & MERN Stack projects</span>  
+- <span style="background-color: #777; color: #fff; padding: 5px 10px; border-radius: 5px;">Teaching & sharing knowledge</span>  
+- <span style="background-color: #888; color: #fff; padding: 5px 10px; border-radius: 5px;">Exploring ML & Deep Learning</span>  
+
+</div>
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/S3PBwM6yqbm8g/giphy.gif" width="600">
