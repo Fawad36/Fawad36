@@ -10,7 +10,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEduSbSGpGaRX2Vri/giphy.gif" width="800"/>
+  <img src="https://media.giphy.com/media/3oEduSbSGpGaRX2Vri/giphy.gif" width="800"  width="150" style="border-radius: 50%; border: 4px solid cyan; animation: glowing 2s infinite alternate;"/>
 </p>
 
 
