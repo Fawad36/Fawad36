@@ -11,7 +11,8 @@
 
 
 
-### 🎬 My Animated Video
+
+![Cybersecurity](https://img.shields.io/badge/🔐%20MY_ANIMATED_GIF-33B5E5?style=for-the-badge&logoColor=white)
 😍😍😍😍😍😍💕💕💕💕💕💕😍😍😍😍😍😍😍
 
 
@@ -26,7 +27,7 @@
 
 
 ---
-
+![Fawad Ali](https://img.shields.io/badge/🌐%20Fawad-ALi%20Web%20Development-FFC107?style=for-the-badge&logoColor=black)
 ## 👨‍💻 **Who is Fawad?** 🧠💡
 
 
