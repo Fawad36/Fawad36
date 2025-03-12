@@ -48,6 +48,11 @@ passion:
   <img src="https://media.giphy.com/media/S3PBwM6yqbm8g/giphy.gif" width="600">
 </p>
 
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2000&pause=500&color=FF00FF&center=true&vCenter=true&width=700&lines=Welcome+to+Fawad+Unleashed!;Cybersecurity+AI+Master!;MERN+%2B+Next.js+%2B+Python!;Building+the+Future!">
+</p>
+
 ---
 
 ## 🚀 **Projects & Technologies** 🔥
