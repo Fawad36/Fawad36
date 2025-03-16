@@ -6,6 +6,9 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&weight=700&duration=2000&pause=500&color=00FFFF&center=true&vCenter=true&width=850&lines=🚀+Welcome+to+Fawad+Unleashed!;👽++AI+Cybersecurity+Expert+%26+Full-Stack+Dev;⚡+Building+the+Future+with+AI!;🔥+MERN+%2B+Next.js+%2B+Python+Mastery!">
 </h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&weight=700&duration=2000&pause=500&color=FF5733&center=true&vCenter=true&width=850&lines=🚀+Welcome+to+Fawad+Unleashed!;👽+AI+Cybersecurity+Expert+%26+Full-Stack+Dev;⚡+Building+the+Future+with+AI!;🔥+MERN+%2B+Next.js+%2B+Python+Mastery!" />
+</h1>
 
 
 <div align="center">
