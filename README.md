@@ -79,10 +79,17 @@ passion:
   - Exploring ML & Deep Learning
 ```
 
-<h1 id="fawad-title" align="center">👨‍💻 <span class="ghost-text">Fawad</span> 🧠💡</h1>
+<h1 align="center">
+  👨‍💻 <span style="color:#ff00ff; font-size: 40px;">Fawad</span> 🧠💡
+</h1>
 
-<pre id="fawad-info">
-<code class="yaml">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=2000&pause=500&color=00FFFF&center=true&vCenter=true&width=750&lines=🚀+Welcome+to+Fawad+Unleashed!;👽+AI+Cybersecurity+Expert+%26+Full-Stack+Dev;⚡+Building+the+Future+with+AI!;🔥+MERN+%2B+Next.js+%2B+Python+Mastery!" />
+</p>
+
+## 👻 **Who is Fawad?**  
+
+```yaml
 name: Fawad Unleashed
 expertise:
   - Artificial Intelligence 🤖
@@ -97,39 +104,36 @@ passion:
   - Creating Next.js & MERN Stack projects
   - Teaching & sharing knowledge
   - Exploring ML & Deep Learning
-</code>
-</pre>
-
-<!-- ScrollReveal.js -->
-<script src="https://unpkg.com/scrollreveal"></script>
-<script>
-  ScrollReveal().reveal('.ghost-text', { duration: 2000, origin: 'top', distance: '50px', scale: 1.2 });
-  ScrollReveal().reveal('#fawad-info', { duration: 3000, origin: 'bottom', distance: '50px', delay: 500, opacity: 0 });
-</script>
-
-<style>
-  .ghost-text {
-    font-size: 50px;
-    font-weight: bold;
-    color: #ff00ff;
-    text-shadow: 0px 0px 10px rgba(255, 0, 255, 0.8);
-  }
-  pre {
-    font-size: 18px;
-    font-weight: bold;
-    color: #00ffff;
-    background-color: #222;
-    padding: 10px;
-    border-radius: 5px;
-    box-shadow: 0px 0px 10px rgba(0, 255, 255, 0.5);
-    max-width: 600px;
-    margin: auto;
-  }
-</style>
 
 
 
 
+
+<h1 align="center">
+  👨‍💻 <span style="color:#ff00ff; font-size: 40px;">Fawad</span> 🧠💡
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=2000&pause=500&color=00FFFF&center=true&vCenter=true&width=750&lines=🚀+Welcome+to+Fawad+Unleashed!;👽+AI+Cybersecurity+Expert+%26+Full-Stack+Dev;⚡+Building+the+Future+with+AI!;🔥+MERN+%2B+Next.js+%2B+Python+Mastery!" />
+</p>
+
+## 👻 **Who is Fawad?**  
+
+```yaml
+name: Fawad Unleashed
+expertise:
+  - Artificial Intelligence 🤖
+  - Cybersecurity 🔐
+  - Full-Stack Web Development 🌐
+  - Blockchain & Crypto 🚀
+  - Python & JavaScript Mastery 🐍
+  - Open-Source Contributor 💻
+passion:
+  - Building AI-powered apps
+  - Cybersecurity Engineering
+  - Creating Next.js & MERN Stack projects
+  - Teaching & sharing knowledge
+  - Exploring ML & Deep Learning
 
 
 
