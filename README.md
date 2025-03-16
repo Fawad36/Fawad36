@@ -10,7 +10,8 @@
 
 [![Who is Fawad?](https://img.shields.io/badge/🧐%20Who%20is%20Fawad%3F-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)
 [![WhatsApp](https://img.shields.io/badge/💬%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+9203413297208)
-[![YouTube](https://img.shields.io/badge/📺%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@YOUR_CHANNEL_NAME)
+[![LinkedIn](https://img.shields.io/badge/🔗%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/YOUR_PROFILE_NAME](https://www.linkedin.com/in/fawad-ali-613455184/))
+
 
 </div>
 
