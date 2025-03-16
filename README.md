@@ -89,44 +89,7 @@ passion:
 
 
 
-<h1 align="center">
-  👨‍💻 <span style="color:#ff00ff; font-size: 40px;">Fawad</span> 🧠💡
-</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=2000&pause=500&color=00FFFF&center=true&vCenter=true&width=750&lines=🚀+Welcome+to+Fawad+Unleashed!;👽+AI+Cybersecurity+Expert+%26+Full-Stack+Dev;⚡+Building+the+Future+with+AI!;🔥+MERN+%2B+Next.js+%2B+Python+Mastery!" />
-</p>
-
-## 👻 **Who is Fawad?**  
-
-```yaml
-name: Fawad Unleashed
-expertise:
-  - Artificial Intelligence 🤖
-  - Cybersecurity 🔐
-  - Full-Stack Web Development 🌐
-  - Blockchain & Crypto 🚀
-  - Python & JavaScript Mastery 🐍
-  - Open-Source Contributor 💻
-passion:
-  - Building AI-powered apps
-  - Cybersecurity Engineering
-  - Creating Next.js & MERN Stack projects
-  - Teaching & sharing knowledge
-  - Exploring ML & Deep Learning
-
-
-
-
-
-<p align="center">
-  <img src="https://media.giphy.com/media/S3PBwM6yqbm8g/giphy.gif" width="600">
-</p>
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2000&pause=500&color=FF00FF&center=true&vCenter=true&width=700&lines=Welcome+to+Fawad+Unleashed!;Cybersecurity+AI+Master!;MERN+%2B+Next.js+%2B+Python!;Building+the+Future!">
-</p>
 
 
 ## 🚀 **Projects & Technologies** 🔥
