@@ -61,6 +61,9 @@
 
 
 ## 👨‍💻 **Who is Fawad?** 🧠💡
+<h1 align="center">
+  👨‍💻 <span style="color:#ff00ff; font-size: 40px;">Fawad</span> 🧠💡
+</h1>
 
 ```yaml
 name: Fawad Unleashed
